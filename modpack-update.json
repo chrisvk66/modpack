@@ -1,15 +1,15 @@
 {
   "modpack": {
     "version": "1.0.0",
-    "changelog": "https://example.com/changelog",
-    "message": "¡Bienvenido a Gnaxiland!\n\nEste modpack está enfocado en exploración, aventura y estructuras.\n\nÚnete a nuestro Discord: https://discord.gg/tu-discord",
-    "recommended": [
-      {
-        "modid": "oculus",
-        "reason": "Recomendado si deseas usar shaders con buen rendimiento."
-      }
-    ]
+    "changelog": "https://example.com/changelog"
   },
+  "message": "¡Bienvenido a Gnaxiland!\n\nEste modpack está enfocado en exploración, aventura y estructuras.\n\nÚnete a nuestro Discord: https://discord.gg/tu-discord",
+  "recommended": [
+    {
+      "modid": "oculus",
+      "reason": "Recomendado si deseas usar shaders con buen rendimiento."
+    }
+  ],
   "mods": [
     {
       "file": "astra-forge-1.20.1-1.15.18.jar",
