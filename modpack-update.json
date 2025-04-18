@@ -5,8 +5,8 @@
   },
   "mods": [
     {
-      "file": "\ufeffad_astra-forge-1.20.1-1.15.18.jar",
-      "name": "\ufeffad astra-forge-1.20.1",
+      "file": "astra-forge-1.20.1-1.15.18.jar",
+      "name": "astra-forge-1.20.1",
       "version": "1.15.18"
     },
     {
@@ -42,12 +42,12 @@
     {
       "file": "aquaculture_delight_1.0.0_forge_1.20.1.jar",
       "name": "aquaculture_delight_1.0.0_forge_1.20.1",
-      "version": "unknown"
+      "version": "1.0.0"
     },
     {
       "file": "architectury-9.2.14-forge.jar",
       "name": "architectury-9.2.14",
-      "version": "forge"
+      "version": "9.2.14"
     },
     {
       "file": "artifacts-forge-9.5.13.jar",
@@ -62,12 +62,12 @@
     {
       "file": "backported_wolves-1.0.3-1.20.1.jar",
       "name": "backported wolves-1.0.3",
-      "version": "1.20.1"
+      "version": "1.0.3"
     },
     {
       "file": "balm-forge-1.20.1-7.3.9-all.jar",
       "name": "balm-forge-1.20.1-7.3.9",
-      "version": "all"
+      "version": "7.3.9"
     },
     {
       "file": "beautify-2.0.2.jar",
@@ -82,17 +82,17 @@
     {
       "file": "BetterCompatibilityChecker-neo-4.0.8+mc1.20.1.jar",
       "name": "BetterCompatibilityChecker-neo",
-      "version": "4.0.8+mc1.20.1"
+      "version": "4.0.8"
     },
     {
       "file": "BetterF3-7.0.2-Forge-1.20.1.jar",
       "name": "BetterF3-7.0.2-Forge",
-      "version": "1.20.1"
+      "version": "7.0.2"
     },
     {
       "file": "BetterTridents-v8.0.1-1.20.1-Forge.jar",
       "name": "BetterTridents-v8.0.1-1.20.1",
-      "version": "Forge"
+      "version": "8.0.1"
     },
     {
       "file": "bettervillage-forge-1.20.1-3.2.0.jar",
@@ -122,7 +122,7 @@
     {
       "file": "born_in_chaos_[Forge]1.20.1_1.3.1.jar",
       "name": "born_in_chaos_[Forge]1.20.1_1.3.1",
-      "version": "unknown"
+      "version": "1.3.1"
     },
     {
       "file": "botarium-forge-1.20.1-2.3.4.jar",
@@ -142,7 +142,7 @@
     {
       "file": "caelus-forge-3.2.0+1.20.1.jar",
       "name": "caelus-forge",
-      "version": "3.2.0+1.20.1"
+      "version": "3.2.0"
     },
     {
       "file": "carryon-forge-1.20.1-2.1.2.7.jar",
@@ -152,22 +152,22 @@
     {
       "file": "caxton-0.6.0-alpha.5+1.20.1-FORGE.jar",
       "name": "caxton-0.6.0-alpha.5+1.20.1",
-      "version": "FORGE"
+      "version": "0.6.0"
     },
     {
       "file": "chefs-delight-1.0.3-forge-1.20.1.jar",
       "name": "chefs-delight-1.0.3-forge",
-      "version": "1.20.1"
+      "version": "1.0.3"
     },
     {
       "file": "citadel-2.6.0-1.20.1.jar",
       "name": "citadel-2.6.0",
-      "version": "1.20.1"
+      "version": "2.6.0"
     },
     {
       "file": "cloth-config-11.1.136-forge.jar",
       "name": "cloth-config-11.1.136",
-      "version": "forge"
+      "version": "11.1.136"
     },
     {
       "file": "Clumps-forge-1.20.1-12.0.0.4.jar",
@@ -177,12 +177,12 @@
     {
       "file": "CoffeeDelight-Forge-1.20.1-1.4-Fix.jar",
       "name": "CoffeeDelight-Forge-1.20.1-1.4",
-      "version": "Fix"
+      "version": "1.4"
     },
     {
       "file": "connectedglass-1.1.12-forge-mc1.20.1.jar",
       "name": "connectedglass-1.1.12-forge",
-      "version": "mc1.20.1"
+      "version": "1.1.12"
     },
     {
       "file": "coroutil-forge-1.20.1-1.3.7.jar",
@@ -207,7 +207,7 @@
     {
       "file": "crafttag1.20.2.jar",
       "name": "crafttag1.20.2",
-      "version": "unknown"
+      "version": "1.20.2"
     },
     {
       "file": "create-1.20.1-0.5.1.j.jar",
@@ -217,12 +217,12 @@
     {
       "file": "CreativeCore_FORGE_v2.12.17_mc1.20.1.jar",
       "name": "CreativeCore_FORGE_v2.12.17_mc1.20.1",
-      "version": "unknown"
+      "version": "2.12.17"
     },
     {
       "file": "creeperoverhaul-3.0.2-forge.jar",
       "name": "creeperoverhaul-3.0.2",
-      "version": "forge"
+      "version": "3.0.2"
     },
     {
       "file": "CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
@@ -232,7 +232,7 @@
     {
       "file": "curios-forge-5.10.0+1.20.1.jar",
       "name": "curios-forge",
-      "version": "5.10.0+1.20.1"
+      "version": "5.10.0"
     },
     {
       "file": "deeperdarker-forge-1.20.1-1.3.2.jar",
@@ -242,7 +242,7 @@
     {
       "file": "do_a_barrel_roll-forge-3.5.6+1.20.1.jar",
       "name": "do a barrel roll-forge",
-      "version": "3.5.6+1.20.1"
+      "version": "3.5.6"
     },
     {
       "file": "eatinganimation-1.20.1-5.1.0.jar",
@@ -257,7 +257,7 @@
     {
       "file": "ecologicsdelight-1.0.2.1-1.20.1.jar",
       "name": "ecologicsdelight-1.0.2.1",
-      "version": "1.20.1"
+      "version": "1.0.2.1"
     },
     {
       "file": "elevatorid-1.20.1-lex-1.9.jar",
@@ -267,22 +267,22 @@
     {
       "file": "elytraslot-forge-6.4.3+1.20.1.jar",
       "name": "elytraslot-forge",
-      "version": "6.4.3+1.20.1"
+      "version": "6.4.3"
     },
     {
       "file": "embeddium-0.3.31+mc1.20.1.jar",
       "name": "embeddium",
-      "version": "0.3.31+mc1.20.1"
+      "version": "0.3.31"
     },
     {
       "file": "embeddiumplus-1.20.1-v1.2.13.jar",
       "name": "embeddiumplus-1.20.1",
-      "version": "v1.2.13"
+      "version": "1.2.13"
     },
     {
       "file": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
       "name": "emotecraft-for-MC1.20.1-2.2.7-b.build.50",
-      "version": "forge"
+      "version": "2.2.7"
     },
     {
       "file": "EnchantmentDescriptions-Forge-1.20.1-17.1.18.jar",
@@ -292,7 +292,7 @@
     {
       "file": "enchantmenttransfer-0.0.6-1.20.1.jar",
       "name": "enchantmenttransfer-0.0.6",
-      "version": "1.20.1"
+      "version": "0.0.6"
     },
     {
       "file": "endermanoverhaul-forge-1.20.1-1.0.4.jar",
@@ -312,7 +312,7 @@
     {
       "file": "exposure-1.20.1-1.7.7-forge.jar",
       "name": "exposure-1.20.1-1.7.7",
-      "version": "forge"
+      "version": "1.7.7"
     },
     {
       "file": "FarmersDelight-1.20.1-1.2.4.jar",
@@ -337,17 +337,17 @@
     {
       "file": "ferritecore-6.0.1-forge.jar",
       "name": "ferritecore-6.0.1",
-      "version": "forge"
+      "version": "6.0.1"
     },
     {
       "file": "firearrows-1.20.1-12-forge.jar",
       "name": "firearrows-1.20.1-12",
-      "version": "forge"
+      "version": "12"
     },
     {
       "file": "forge-3.1.4+mc1.20.1.jar",
       "name": "forge",
-      "version": "3.1.4+mc1.20.1"
+      "version": "3.1.4"
     },
     {
       "file": "forge_golemfirststonemod-0.0.13-1.20.1.jar",
@@ -367,7 +367,7 @@
     {
       "file": "fusion-1.1.1-forge-mc1.20.1.jar",
       "name": "fusion-1.1.1-forge",
-      "version": "mc1.20.1"
+      "version": "1.1.1"
     },
     {
       "file": "geckolib-forge-1.20.1-4.4.9.jar",
@@ -377,7 +377,7 @@
     {
       "file": "gml-4.0.9-all.jar",
       "name": "gml-4.0.9",
-      "version": "all"
+      "version": "4.0.9"
     },
     {
       "file": "goblintraders-forge-1.20.1-1.9.3.jar",
@@ -392,7 +392,7 @@
     {
       "file": "hamsters-forge-1.0.3-1.20.1.jar",
       "name": "hamsters-forge-1.0.3",
-      "version": "1.20.1"
+      "version": "1.0.3"
     },
     {
       "file": "handcrafted-forge-1.20.1-3.0.6.jar",
@@ -402,7 +402,7 @@
     {
       "file": "iceandfire-2.1.13-1.20.1-beta-5.jar",
       "name": "iceandfire-2.1.13-1.20.1-beta",
-      "version": "5"
+      "version": "2.1.13"
     },
     {
       "file": "Iceberg-1.20.1-forge-1.1.21.jar",
@@ -412,7 +412,7 @@
     {
       "file": "ImmediatelyFast-Forge-1.5.0+1.20.4.jar",
       "name": "ImmediatelyFast-Forge",
-      "version": "1.5.0+1.20.4"
+      "version": "1.5.0"
     },
     {
       "file": "ImmersiveUI-FORGE-0.2.2.jar",
@@ -422,22 +422,22 @@
     {
       "file": "immersive_aircraft-1.1.2+1.20.1-forge.jar",
       "name": "immersive aircraft-1.1.2+1.20.1",
-      "version": "forge"
+      "version": "1.1.2"
     },
     {
       "file": "immersive_armors-1.6.1+1.20.1-forge.jar",
       "name": "immersive armors-1.6.1+1.20.1",
-      "version": "forge"
+      "version": "1.6.1"
     },
     {
       "file": "immersive_melodies-0.3.0+1.20.1-forge.jar",
       "name": "immersive melodies-0.3.0+1.20.1",
-      "version": "forge"
+      "version": "0.3.0"
     },
     {
       "file": "Inka_1.2_forge_1.20.1.jar",
       "name": "Inka_1.2_forge_1.20.1",
-      "version": "unknown"
+      "version": "1.2"
     },
     {
       "file": "inventoryhud.forge.1.20.1-3.4.26.jar",
@@ -462,12 +462,12 @@
     {
       "file": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
       "name": "konkrete forge 1.8.0 MC 1.20",
-      "version": "1.20.1"
+      "version": "1.8.0"
     },
     {
       "file": "kotlinforforge-4.11.0-all.jar",
       "name": "kotlinforforge-4.11.0",
-      "version": "all"
+      "version": "4.11.0"
     },
     {
       "file": "libraryferret-forge-1.20.1-4.0.0.jar",
@@ -482,32 +482,32 @@
     {
       "file": "L_Enders_Cataclysm-1.99.5 -1.20.1.jar",
       "name": "L Enders Cataclysm-1.99.5",
-      "version": "1.20.1"
+      "version": "1.99.5"
     },
     {
       "file": "mcw-bridges-3.0.0-mc1.20.1forge.jar",
       "name": "mcw-bridges-3.0.0",
-      "version": "mc1.20.1forge"
+      "version": "3.0.0"
     },
     {
       "file": "mcw-doors-1.1.1forge-mc1.20.1.jar",
       "name": "mcw-doors-1.1.1forge",
-      "version": "mc1.20.1"
+      "version": "1.1.1"
     },
     {
       "file": "mcw-fences-1.1.2-mc1.20.1forge.jar",
       "name": "mcw-fences-1.1.2",
-      "version": "mc1.20.1forge"
+      "version": "1.1.2"
     },
     {
       "file": "mcw-windows-2.3.0-mc1.20.1forge.jar",
       "name": "mcw-windows-2.3.0",
-      "version": "mc1.20.1forge"
+      "version": "2.3.0"
     },
     {
       "file": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
       "name": "melody forge 1.0.3 MC 1.20.1",
-      "version": "1.20.4"
+      "version": "1.0.3"
     },
     {
       "file": "mermod-forge-1.20.1-3.0.1.jar",
@@ -517,12 +517,12 @@
     {
       "file": "minecraft-comes-alive-7.5.19+1.20.1-universal.jar",
       "name": "minecraft-comes-alive-7.5.19+1.20.1",
-      "version": "universal"
+      "version": "7.5.19"
     },
     {
       "file": "moonlight-1.20-2.13.0-forge.jar",
       "name": "moonlight-1.20-2.13.0",
-      "version": "forge"
+      "version": "2.13.0"
     },
     {
       "file": "mowziesmobs-1.7.1.jar",
@@ -532,22 +532,22 @@
     {
       "file": "MutantMonsters-v8.0.7-1.20.1-Forge.jar",
       "name": "MutantMonsters-v8.0.7-1.20.1",
-      "version": "Forge"
+      "version": "8.0.7"
     },
     {
       "file": "mythicmounts-20.1-7.4.2-forge.jar",
       "name": "mythicmounts-20.1-7.4.2",
-      "version": "forge"
+      "version": "7.4.2"
     },
     {
       "file": "naturalist-forge-4.0.3-1.20.1.jar",
       "name": "naturalist-forge-4.0.3",
-      "version": "1.20.1"
+      "version": "4.0.3"
     },
     {
       "file": "nerb-1.20.1-0.3-FORGE.jar",
       "name": "nerb-1.20.1-0.3",
-      "version": "FORGE"
+      "version": "0.3"
     },
     {
       "file": "nethersdelight-1.20.1-4.0.jar",
@@ -562,7 +562,7 @@
     {
       "file": "notenoughanimations-forge-1.7.6-mc1.20.1.jar",
       "name": "notenoughanimations-forge-1.7.6",
-      "version": "mc1.20.1"
+      "version": "1.7.6"
     },
     {
       "file": "Obscure-Tooltips-2.2.jar",
@@ -577,7 +577,7 @@
     {
       "file": "OctoLib-FORGE-0.4.2+1.20.1.jar",
       "name": "OctoLib-FORGE",
-      "version": "0.4.2+1.20.1"
+      "version": "0.4.2"
     },
     {
       "file": "oculus-mc1.20.1-1.7.0.jar",
@@ -587,17 +587,17 @@
     {
       "file": "ParCool-1.20.1-3.3.0.1-R.jar",
       "name": "ParCool-1.20.1-3.3.0.1",
-      "version": "R"
+      "version": "3.3.0.1"
     },
     {
       "file": "Patchouli-1.20.1-84-FORGE.jar",
       "name": "Patchouli-1.20.1-84",
-      "version": "FORGE"
+      "version": "84"
     },
     {
       "file": "physics-mod-3.0.14-mc-1.20.1-forge.jar",
       "name": "physics-mod-3.0.14-mc-1.20.1",
-      "version": "forge"
+      "version": "3.0.14"
     },
     {
       "file": "Placebo-1.20.1-8.6.3.jar",
@@ -607,32 +607,32 @@
     {
       "file": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
       "name": "player-animation-lib-forge-1.0.2",
-      "version": "rc1+1.20"
+      "version": "1.0.2"
     },
     {
       "file": "PlayerRevive_FORGE_v2.0.27_mc1.20.1.jar",
       "name": "PlayerRevive_FORGE_v2.0.27_mc1.20.1",
-      "version": "unknown"
+      "version": "2.0.27"
     },
     {
       "file": "polymorph-forge-0.49.5+1.20.1.jar",
       "name": "polymorph-forge",
-      "version": "0.49.5+1.20.1"
+      "version": "0.49.5"
     },
     {
       "file": "PrettyPipes-1.15.0-all.jar",
       "name": "PrettyPipes-1.15.0",
-      "version": "all"
+      "version": "1.15.0"
     },
     {
       "file": "PuzzlesLib-v8.1.23-1.20.1-Forge.jar",
       "name": "PuzzlesLib-v8.1.23-1.20.1",
-      "version": "Forge"
+      "version": "8.1.23"
     },
     {
       "file": "radiantgear-forge-2.1.5+1.20.1.jar",
       "name": "radiantgear-forge",
-      "version": "2.1.5+1.20.1"
+      "version": "2.1.5"
     },
     {
       "file": "refurbished_furniture-forge-1.20.1-1.0.6.jar",
@@ -657,7 +657,7 @@
     {
       "file": "Sitting+-2.0.1-forge-1.20.1.jar",
       "name": "Sitting+-2.0.1-forge",
-      "version": "1.20.1"
+      "version": "2.0.1"
     },
     {
       "file": "sleep_tight-1.20-1.1.19.jar",
@@ -682,12 +682,12 @@
     {
       "file": "starlight-1.1.2+forge.1cda73c.jar",
       "name": "starlight",
-      "version": "1.1.2+forge.1cda73c"
+      "version": "1.1.2"
     },
     {
       "file": "Steam_Rails-1.6.7+forge-mc1.20.1.jar",
       "name": "Steam Rails-1.6.7+forge",
-      "version": "mc1.20.1"
+      "version": "1.6.7"
     },
     {
       "file": "structure_gel-1.20.1-2.16.2.jar",
@@ -697,12 +697,12 @@
     {
       "file": "sullysmod-3.1.2-beta.jar",
       "name": "sullysmod-3.1.2",
-      "version": "beta"
+      "version": "3.1.2"
     },
     {
       "file": "supermartijn642corelib-1.1.17a-forge-mc1.20.1.jar",
       "name": "supermartijn642corelib-1.1.17a-forge",
-      "version": "mc1.20.1"
+      "version": "1.1.17a"
     },
     {
       "file": "supplementaries-1.20-2.8.17.jar",
@@ -717,7 +717,7 @@
     {
       "file": "takesapillage-1.0.3-1.20.1.jar",
       "name": "takesapillage-1.0.3",
-      "version": "1.20.1"
+      "version": "1.0.3"
     },
     {
       "file": "TerraBlender-forge-1.20.1-3.0.1.7.jar",
@@ -727,17 +727,17 @@
     {
       "file": "the_bumblezone-7.5.0+1.20.1-forge.jar",
       "name": "the bumblezone-7.5.0+1.20.1",
-      "version": "forge"
+      "version": "7.5.0"
     },
     {
       "file": "trenzalore-forge-3.3.10+mc1.20.1-all.jar",
       "name": "trenzalore-forge-3.3.10+mc1.20.1",
-      "version": "all"
+      "version": "3.3.10"
     },
     {
       "file": "v2.0.1 - 1.20.1 - Forge.jar",
       "name": "v2.0.1 - 1.20.1",
-      "version": "Forge"
+      "version": "2.0.1"
     },
     {
       "file": "vc_gliders-forge-1.1.5.jar",
@@ -747,12 +747,12 @@
     {
       "file": "VisualWorkbench-v8.0.0-1.20.1-Forge.jar",
       "name": "VisualWorkbench-v8.0.0-1.20.1",
-      "version": "Forge"
+      "version": "8.0.0"
     },
     {
       "file": "wardrobe-1.0.3.1-forge-1.20.1.jar",
       "name": "wardrobe-1.0.3.1-forge",
-      "version": "1.20.1"
+      "version": "1.0.3.1"
     },
     {
       "file": "watut-forge-1.20.1-1.1.3.jar",
@@ -767,17 +767,17 @@
     {
       "file": "XaerosWorldMap_1.39.4_Forge_1.20.jar",
       "name": "XaerosWorldMap_1.39.4_Forge_1.20",
-      "version": "unknown"
+      "version": "1.39.4"
     },
     {
       "file": "Xaeros_Minimap_25.2.0_Forge_1.20.jar",
       "name": "Xaeros_Minimap_25.2.0_Forge_1.20",
-      "version": "unknown"
+      "version": "25.2.0"
     },
     {
       "file": "[1.20.1] SecurityCraft v1.9.10.jar",
       "name": "[1.20.1] SecurityCraft v1.9.10",
-      "version": "unknown"
+      "version": "1.9.10"
     }
   ]
 }
